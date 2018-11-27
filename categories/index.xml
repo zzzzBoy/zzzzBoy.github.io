@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tracks</title>
-    <link>https://example.org/categories/</link>
+    <link>https://zzzzBoy.github.io/categories/</link>
     <description>Recent content in Categories on Tracks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zzzzBoy.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Code</title>
-      <link>https://example.org/categories/code/</link>
+      <link>https://zzzzBoy.github.io/categories/code/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>https://example.org/categories/code/</guid>
+      <guid>https://zzzzBoy.github.io/categories/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design</title>
-      <link>https://example.org/categories/design/</link>
+      <link>https://zzzzBoy.github.io/categories/design/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://example.org/categories/design/</guid>
+      <guid>https://zzzzBoy.github.io/categories/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photography</title>
-      <link>https://example.org/categories/photography/</link>
+      <link>https://zzzzBoy.github.io/categories/photography/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
-      <guid>https://example.org/categories/photography/</guid>
+      <guid>https://zzzzBoy.github.io/categories/photography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travel</title>
-      <link>https://example.org/categories/travel/</link>
+      <link>https://zzzzBoy.github.io/categories/travel/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://example.org/categories/travel/</guid>
+      <guid>https://zzzzBoy.github.io/categories/travel/</guid>
       <description></description>
     </item>
     
