@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Life and Love</title>
+    <title>Categories on Tracks</title>
     <link>https://example.org/categories/</link>
-    <description>Recent content in Categories on Life and Love</description>
+    <description>Recent content in Categories on Tracks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>code</title>
+      <title>Code</title>
       <link>https://example.org/categories/code/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
@@ -20,16 +20,16 @@
     </item>
     
     <item>
-      <title>design</title>
+      <title>Design</title>
       <link>https://example.org/categories/design/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>https://example.org/categories/design/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>photography</title>
+      <title>Photography</title>
       <link>https://example.org/categories/photography/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
@@ -38,7 +38,7 @@
     </item>
     
     <item>
-      <title>travel</title>
+      <title>Travel</title>
       <link>https://example.org/categories/travel/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
